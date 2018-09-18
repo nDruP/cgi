@@ -3,5 +3,5 @@
 print("Content-Type: text/plain")
 print("")
 
-print("Hello, world!")
+print("<h1>Hello, world!</h1>")
 
